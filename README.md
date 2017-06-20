@@ -1,2 +1,3 @@
 # thumbs_up_surfaceview
 用surfaceView做的点赞动画 防止红星view过多是会卡顿
+
